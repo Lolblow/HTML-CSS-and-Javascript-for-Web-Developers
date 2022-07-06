@@ -4,5 +4,5 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://lolblow.github.io/HTML-CSS-and-Javascript-for-Web-Developers/)
+# To see the output [CLICK HERE](https://lolblow.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Module2/index.html)
 
